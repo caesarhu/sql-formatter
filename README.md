@@ -8,7 +8,7 @@ A Clojure port of great SQL formatter https://github.com/vertical-blank/sql-form
 
 ## Usage
 
-(require '[caesarhu/sql-format.core :refer [sql-format sql-command]])
+(require '[sql-formatter.core :refer [sql-format sql-command]])
 
 ### Functions
 
